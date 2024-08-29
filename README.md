@@ -29,6 +29,21 @@
 
 ### 📊 Estadísticas
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GarayOcs&theme=dark&background=000000)](https://git.io/streak-stats)
+<h2>GitHub :octocat:</h2>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="60%" align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarayOcs&layout=compact&theme=vision-friendly-dark)](https://github.com/GarayOcs/github-readme-stats)
+<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
+  <br></br> -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nesgtz12&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<td width="40%" align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nesgtz12&layout=compact&theme=vision-friendly-dark)](https://github.com/GarayOcs/github-readme-stats)>
+
+  </td>
+</tr>
