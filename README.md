@@ -9,7 +9,7 @@
 - 🎓 Entusiasta de la tecnología y disfrutando de una transición de Ingeniería Industrial a QA Engineer.
 - 💾 Desarrollando conocimientos y competencias para diseño y desarrollo de pruebas, así como el análisis de los requisitos para asegurar la calidad del sofware
 - 💻📖 Obteniendo conocimientos activamente y desarrollando proyectos en un bootcamp de QA Engineer en TripleTen Latam, donde estoy aprendiendo y mejorando constantemente, gracias a la aplicación de técnicas           modernas de pruebas de software.
-- 👾  Apasionada por la tecnología y el aprendizaje continuo, siempre buscando mejorar los procesos y la calidad del producto mediante mis conocimiento adquiridos en calidad.
+- 👾  Apasionado por la tecnología y el aprendizaje continuo, siempre buscando mejorar los procesos y la calidad del producto mediante mis conocimiento adquiridos en calidad.
 - 📝 Un par de años de experiencia en calidad en el area de manufactura, también como líder y desarrollador de proyectos
 - 🎐 Busco oportunidades que me permitan adquiris mas experiencia y aplicar mis conocimientos adquiridos en desarrollo de pruebas de software, con el fin de mejorar continuamente y cada vez entregar trabajos con mayor calidad
 - ✉️ ¿Quieres contactar conmigo? Escríbeme por cualquiera de estos medios:
