@@ -19,8 +19,12 @@
 
 ---
 
-### ⚙️ Lenguajes y herramientas
-[![My Skills](https://skillicons.dev/icons?i=jira,androidstudio,figma,postman,pycharm,selenium,python,git,github,gmail,discord,mysql)](https://skillicons.dev)
+### 👨🏻‍💻 Lenguajes y herramientas
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fima,postman,androidstudio,python,selenium,pycharm,git,github,vscode,mysql,gcp,gmail,discordm" />
+  </a>
+</p>
 
 
 ### 📊 Estadísticas
