@@ -4,7 +4,18 @@
 ---
 <div id="header" align="left">
 
-### 🙋 Conóceme un poco
+<!-- Etiqueta h1 corregida con HTML bien formado -->
+<h1>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVic2xoMmozZWVpdDVwM3phdGhkdXU4MzNxd3hrN3VtM2lremNxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="50" />
+    Breve resumen sobre mí
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQ1cW5lbWVrNDljMDFnZDBneXBsdm80OHp2Z3I3eHI2M2N3Ym9kciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z835RsRqQHOlC4rsBr/giphy.gif" width="70" />
+</h1>
+
+
+QA Engineer & Industrial con gusto del aprendizaje continuo con el objetivo de poner mis habilidades aprueba cada día con el fin de superar los desafíos que se me presentan. Esto utilizando herramientas modernas del area tecnologías, así como también el conocimiento de metodologías de calidad que he obtenido en base mi experiencia en la industria
+
+### 🙋 Conóceme un poco mas
+
 
 - 🎓 Entusiasta de la tecnología y disfrutando de una transición de Ingeniería Industrial a QA Engineer.
 - 💾 Desarrollando conocimientos y competencias para diseño y desarrollo de pruebas, así como el análisis de los requisitos para asegurar la calidad del sofware
